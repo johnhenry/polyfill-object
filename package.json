@@ -1,0 +1,13 @@
+{
+  "name": "polyfill-object",
+  "version": "0.0.1",
+  "description": "Add useful functions to strings",
+  "keywords": ["polyfill","object","type","typeof","empty"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/polyfill-object",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/polyfill-object.git"
+  },
+  "main": "index"
+}
